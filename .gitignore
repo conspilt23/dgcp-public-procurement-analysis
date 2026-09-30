@@ -12,7 +12,6 @@ env/
 .env
 
 # Data files (large source and generated outputs)
-data/raw/*
 data/processed/*
 
 # OS
