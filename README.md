@@ -423,7 +423,7 @@ The project deliberately avoids adding assumptions that the source data cannot s
 - Add a historical FX table if cross-currency financial aggregation becomes a requirement.
 - Add a dedicated date dimension if richer time-intelligence analysis is needed.
 - Introduce incremental database loading instead of a full staging reload for a larger production workload.
-- Export a lightweight dashboard screenshot for the repository landing page.
+
 
 ## Portfolio takeaway
 
