@@ -233,7 +233,9 @@ dgcp-public-procurement-analysis/
 ├── reports/
 │   ├── dgcp_procurement_dashboard.pbix
 │   ├── DAX_MEASURES.md
-│   └── README.md
+│   ├── README.md
+│   └── dashboard_screenshot.png
+│       
 ├── sql/
 │   ├── 01_create_database.sql
 │   ├── 02_create_tables.sql
